@@ -83,7 +83,5 @@ input.empty {
 }
 
 #sticky-sidebar{
-  position: -webkit-sticky;
-  position: sticky;
-  top: 50px; 
+  position: fixed;
 }
