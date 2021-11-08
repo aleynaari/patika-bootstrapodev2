@@ -66,3 +66,15 @@ input.empty {
   float: right;
   margin-top: 5px;
 }
+
+.paylas {
+  float: right;
+}
+
+#sag-follow{
+  float: right;
+}
+
+.card-footer, .card-header{
+  background-color: #fff;
+}
