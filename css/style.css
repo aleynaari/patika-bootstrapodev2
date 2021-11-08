@@ -81,3 +81,9 @@ input.empty {
 .card-footer, .card-header{
   background-color: #fff;
 }
+
+#sticky-sidebar{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 50px; 
+}
