@@ -56,3 +56,8 @@ input.empty {
 .middlearea{
   max-height: 200px !important;
 }
+
+#nokta {
+  float: right;
+  margin-top: 5px;
+}
